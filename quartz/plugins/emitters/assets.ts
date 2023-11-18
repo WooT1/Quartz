@@ -14,6 +14,7 @@ export const Assets: QuartzEmitterPlugin = () => {
       // glob all non MD/MDX/HTML files in content folder and copy it over
       const assetsPath = argv.output
       const fps = await glob("**", argv.directory, ["**/*.md", ...cfg.configuration.ignorePatterns])
+	  console.log(fps)
       const res: FilePath[] = []
       for (const fp of fps) {
         const ext = path.extname(fp)

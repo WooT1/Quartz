@@ -1,5 +1,6 @@
 SO i watched this video https://youtu.be/Nn9trJXUrp0 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Nn9trJXUrp0?si=rDQKpnb7rUa_m90v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 and it sounds cool as fuck and includes these images
 ![[Chris Christodoulou - Chris Christodoulou - …con lentitud poderosa Risk of Rain 2 (2020) [Nn9trJXUrp0 - 1280x720 - 2m15s].png]]
 
