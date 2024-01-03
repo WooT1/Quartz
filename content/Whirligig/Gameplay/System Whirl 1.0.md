@@ -99,3 +99,17 @@ I also plan on implementing a trait system for events that would occur in battle
   
 
 #### Battle
+
+On your turn you can do 3 things in any order
+
+- Move
+
+- Attack
+
+- Action
+
+Movement is Determined by your agility, with you being able to move one tile per point in agility. Going up a slope requires two, but going down requires none. Movement can be affected by certain moves, attacks, or actions.
+
+Attacks are what you use to deal damage. You get one point of attack per point in your used attack stat (Attack, Agility, Brain) in addition to the strength of your attack. Attacks are custom made for ULTIMATE CUSTOMIZATION and can have movement or stat effects attached to them. 
+
+Actions are pretty much anything else. A stat spell, a Gadget use, maybe popping a healing potion. Actions can also be non lethal moves, such as a shove (Pushing someone off a cliff for example) or a jump that doesn't cost movement. 
