@@ -14,7 +14,7 @@ Faction type only helps to determine playstyle. 
 
   
 
-Spin is very consistent with meter usage. Meter usage with spin is likely to be alternating or comboing, and takes shape in 
+Spin is very consistent with meter usage. Meter usage with spin is likely to be alternating or comboing. A reliable bruiser, but doesn't have a lot of shockingly strong moves.
 
   
 
@@ -56,19 +56,13 @@ Non Combat Is pretty all encompassing. From information to buffs to healing if y
   
 Secondary roles further nail down how you’ll be playing. These are customizable stat bonuses and can really be called whatever you want. 
 
-Attributes are a second layer of stats that I figured were all encompassing enough to be something else. To apply attributes to a new character default all to base and apply 6 points. Applying 1 guts point uses 2 points.  
-GUTS - Guts determines your base coefficient before combat. High guts results in a higher starting coefficient, and lower guts results in a lower coefficient. Base value is 1, and has a maximum of 6. 
+GUTS is more of a constant, it determines your base coefficient before combat. High guts results in a higher starting coefficient, and lower guts results in a lower coefficient. Base value is 1, and has a maximum of 6. 
 
 Each point in guts is equal to 2.5 coefficient, leaving the max before combat to be 15.  
-Role Value (RV) - This value is determined by your role, it’s used for primary rolls (rolls befitting of your character) and has a base of 5 and a maximum of 20. 
-
-Primary rolls are done with d6+RV+proficiency, You also gain an additional d4 for every 5 RV you have. 
-
-Secondary Value (SV) - SV has a base of 5 and increases by 0.6 every RV point and is a flat modifier to non focus rolls. It’s mostly just to keep your non focus abilities up. (don’t worry about the funny numbers I’ll be keeping track of everything for you)
 
   
 
-![](https://lh7-us.googleusercontent.com/kF6BY34RWzjxe_dTAupMtiYEX3YmLsbH6ZPHXfblRPedEiY6fECObnHusyGhjFZS6CrL_KoPvim8Yq-z9uVklCAyckdRsbjCyw2XA_TU6W8z906ws-6UK-6SnRI54hlL8c3ceZkJp1PeArFlk7wdEYI)Stats Are what your primary role and secondary role affect. There are a few pretty standard stats and they’re defined by proficiency and your role.
+![](https://lh7-us.googleusercontent.com/kF6BY34RWzjxe_dTAupMtiYEX3YmLsbH6ZPHXfblRPedEiY6fECObnHusyGhjFZS6CrL_KoPvim8Yq-z9uVklCAyckdRsbjCyw2XA_TU6W8z906ws-6UK-6SnRI54hlL8c3ceZkJp1PeArFlk7wdEYI)On top of guts, there are a few pretty standard stats and they’re defined by proficiency and your role.
 
 Attack - Offense focus 
 
@@ -92,13 +86,12 @@ Brains - Non combat/Offense focus
 
 - Point total should add up to 17 for level 1
 
-  
+- Guts can be increased by 1 for 2 role points 
 
 I also plan on implementing a trait system for events that would occur in battle for specific characters, as of now I’ll simply bring it up while creating your characters and manage it on the spot.
 
-  
 
-#### Battle
+### Battle
 
 On your turn you can do 3 things in any order
 
