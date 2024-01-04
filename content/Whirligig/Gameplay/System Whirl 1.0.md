@@ -86,7 +86,7 @@ Brains - Non combat/Offense focus
 
 - Point total should add up to 17 for level 1
 
-- Guts can be increased by 1 for 2 role points 
+- Guts can be increased by 1 for 2 stat points 
 
 I also plan on implementing a trait system for events that would occur in battle for specific characters, as of now I’ll simply bring it up while creating your characters and manage it on the spot.
 
