@@ -14,8 +14,8 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Comic Sans",
-        body: "Comic Sans",
+        header: "Comic Sans MS",
+        body: "Comic Sans MS",
         code: "IBM Plex Mono",
       },
       colors: {
