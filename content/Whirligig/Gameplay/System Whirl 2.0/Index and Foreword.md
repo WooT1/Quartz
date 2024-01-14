@@ -3,6 +3,8 @@ It'll still include the cool mechanics I've been working on, as well as using Mi
 
 (Sorry Ziziwhat I'm gonna have you remake your sheet)
 
-anyway, here's it all sorted into a neat list.
+anyway, here's it all sorted into a neat list. (there's only two things)
 
 [[Character creation]]
+
+[[Battles]]
