@@ -1,0 +1,1 @@
+A founding member of SCRaP and their head engineer at only 17. She's responsible for most of the street work, which consists of "tastefully acquiring" parts from wherever she can. Scrapyards, antique shops, and sometimes unattended ships tend to have what the group deems useful. 
